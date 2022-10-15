@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/mdast": "^3.0.10",
+    "mdast": "^3.0.0",
+    "unist-util-visit": "^4.1.1"
+  }
+}
